@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     private let titleLabel: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
-        label.text = "Hello, world!"
+        label.text = "Hello, jitu"
         label.textAlignment = .center
         label.textColor = .label
         label.font = UIFont.preferredFont(forTextStyle: .title1)
